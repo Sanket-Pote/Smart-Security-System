@@ -1,6 +1,7 @@
 # Smart-Security-System
 
 ##Overview
+
 The Smart Security System using a matrix keypad and solenoid lock is designed to enhance the security of restricted areas by incorporating a password-protected locking mechanism. This system uses an Arduino microcontroller to interface with a matrix keypad for password entry and a solenoid lock for physical security. Users can unlock the system by entering the correct password, providing a secure and user-friendly method of access control for homes, offices, and other secure locations.
 
 ##Components
